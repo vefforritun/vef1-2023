@@ -4,9 +4,9 @@
 
 Upptökur koma inn eftir fyrirlestur 21. ágúst.
 
-- [Fyrirlestur 1.1: Kynning & námsefni](../namsefni/00.kynning/kynning.md), [upptaka](https://example.org).
-- [Fyrirlestur 1.2: Uppsetning á Visual Studio og Netlify, fyrsta vefsíða sett upp](https://example.org).
-- [Fyrirlestur 1.3: Samantekt á viku 1](https://example.org).
+- [Fyrirlestur 1.1: Kynning & námsefni](../namsefni/00.kynning/kynning.md), [upptaka (39:32)](https://youtu.be/NTq8h8YQM40).
+- [Fyrirlestur 1.2: Uppsetning á Visual Studio og Netlify, fyrsta vefsíða sett upp (43:04)](https://youtu.be/nNdSFkHcVso).
+- [Fyrirlestur 1.3: Samantekt á viku 1 (15:41)](https://youtu.be/tcrTb_9jfRI).
 
 ## Námsefni
 

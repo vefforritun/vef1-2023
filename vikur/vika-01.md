@@ -5,14 +5,10 @@
 Upptökur koma inn eftir fyrirlestur 21. ágúst.
 
 - [Fyrirlestur 1.1: Kynning & námsefni](../namsefni/00.kynning/kynning.md), [upptaka (39:32)](https://youtu.be/NTq8h8YQM40).
-- [Fyrirlestur 1.2: Uppsetning á Visual Studio og Netlify, fyrsta vefsíða sett upp (43:04)](https://youtu.be/nNdSFkHcVso).
+- [Fyrirlestur 1.2: Uppsetning á Visual Studio Code og Netlify, fyrsta vefsíða sett upp (43:04)](https://youtu.be/nNdSFkHcVso).
 - [Fyrirlestur 1.3: Samantekt á viku 1 (15:41)](https://youtu.be/tcrTb_9jfRI).
 
 ## Námsefni
-
-### Dæmi
-
-- [Minnsta HTML skjal](../daemi/html/minnsta.html).
 
 ### Lesefni
 
@@ -22,11 +18,15 @@ Upptökur koma inn eftir fyrirlestur 21. ágúst.
   - [Kafli 2: Sagan hingað til](https://bok.vefforritun.is/02.saga.html)
   - [Kafli 3: HTML](https://bok.vefforritun.is/03.html.html)
 
-### Uppteknir fyrirlestrar og dæmi
+### Uppteknir fyrirlestrar
 
 - [Kynning á áfanga og námsefni](../namsefni/00.kynning/readme.md).
 - [Inngangur](../namsefni/01.inngangur/readme.md).
 - [HTML](../namsefni/02.html/readme.md).
+
+### Dæmi
+
+- [Minnsta HTML skjal](../daemi/minnsta.html).
 
 ### Lykilhugtök
 

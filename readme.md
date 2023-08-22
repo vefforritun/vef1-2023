@@ -48,7 +48,7 @@ Námsefni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálfir fara 
 
 ### Dæmi
 
-[Öll dæmi eru undir `daemi/` og flokkuð eftir viðfangsefni](/daemi).
+[Öll dæmi eru undir viðeigandi námsefni í `daemi/` möppu](/namsefni).
 
 Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með því að nota „download“ virkni eða [opna vef útgáfu af dæmum þar sem hægt er að skoða þau beint í vafra](https://vefforritun.github.io/vef1-2023/daemi/).
 
@@ -56,6 +56,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
 
 - [Vika 1, 21.—27. ágúst 2023](vikur/vika-01.md)
   - Kynning; inngangur; HTML; Netlify
+- [Vika 2, 28. ágúst. september 2023](vikur/vika-02.md)
+  - Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
 
 ## Verkefni
 

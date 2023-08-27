@@ -54,3 +54,4 @@ Upptökur koma inn eftir fyrirlestur mánudaginn 28. ágúst.
 - [ ] Setja upp aXe viðbót í vafra
 - [ ] Prófa aðgengistæki í þínu tæki, ef við á
 - [ ] Vinna í og skila [verkefni 1](https://github.com/vefforritun/vef1-2023-v1)
+- [ ] Byrja á [verkefni 2](https://github.com/vefforritun/vef1-2023-v2)

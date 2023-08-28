@@ -2,7 +2,15 @@
 
 ## Fyrirlestrar
 
-Upptökur koma inn eftir fyrirlestur mánudaginn 28. ágúst.
+- [Fyrirlestur 2.1: Yfirferð á HTML staðli, HTML dæmi og vscode (41:27)](https://www.youtube.com/watch?v=NzB3IdICRi8)
+- [Fyrirlestur 2.2: Nánara HTML dæmi, Netlify uppsetning (54:05)](https://youtu.be/44RZJub9igk)
+- [Kynning á verkefni 2, tekið upp eftir fyrirlestur (5:59)](https://youtu.be/L5s9N0ap6eo)
+
+### Efni sýnt í fyrirlestri
+
+- [W3C validator vscode extension](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator)
+- [Prettier vscode extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [aXe extension](https://www.deque.com/axe/browser-extensions/)
 
 ## Námsefni
 

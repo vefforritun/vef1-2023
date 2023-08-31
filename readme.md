@@ -69,6 +69,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 
 - [Verkefni 1 (HTML #1)](https://github.com/vefforritun/vef1-2023-v1), setja upp ritil, gera síðu aðgengilega á vefnum gegnum Netlify.
   - Sett fyrir 21. ágúst, skilist 31. ágúst.
+- [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2023-v2), HTML element, aðgengi og SEO.
+  - Sett fyrir 28. ágúst, skilist 7. september
 
 ### Hópverkefni
 

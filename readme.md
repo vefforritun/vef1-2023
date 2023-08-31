@@ -56,8 +56,10 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
 
 - [Vika 1, 21.—27. ágúst 2023](vikur/vika-01.md)
   - Kynning; inngangur; HTML; Netlify
-- [Vika 2, 28. ágúst. september 2023](vikur/vika-02.md)
+- [Vika 2, 28. ágúst.–3. september 2023](vikur/vika-02.md)
   - Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
+- [Vika 3, 4.–10. september 2023](vikur/vika-03.md)
+  - CSS; box model; specificity og cascade; visual formatting; Letur & litir
 
 ## Verkefni
 

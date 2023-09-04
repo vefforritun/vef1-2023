@@ -2,11 +2,12 @@
 
 ## Fyrirlestrar
 
-Upptökur koma inn eftir fyrirlestur mánudaginn 4. september.
-
-### Efni sýnt í fyrirlestri
-
-- [CSS current work & how to participate](https://www.w3.org/Style/CSS/current-work)
+- [Fyrirlestur 3.1: HTML dæmi tengd verkefni 2 (33:33)](https://youtu.be/-2QWak1bP94)
+- [Fyrirlestur 3.2: HTML og aðgengi (10:54)](https://youtu.be/-tQszFQ2f10)
+- [Fyrirlestur 3.3: CSS selectors & specificity (25:05)](https://youtu.be/FHpBQHGe-KY)
+- [Fyrirlestur 3.4: CSS specificity & cascade, aðeins um box model (26:28)](https://youtu.be/Mmx3nR8AcqE)
+- [Verkefni 3 (5:07)](https://youtu.be/6Q_vhvd89w0)
+- [Dæmi úr fyrirlestrum](https://github.com/vefforritun/vef1-2023-fyrirlestra-daemi/tree/main/f03)
 
 ## Námsefni
 

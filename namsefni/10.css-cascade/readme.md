@@ -1,18 +1,12 @@
 # Sértækni og flóðið
 
-## Lesefni
-
-* [Bókin um vefforritun](https://bok.vefforritun.is/)
-  * [Kafli 12: Sértækni & flóðið](https://bok.vefforritun.is/12.css-specifity-cascade.html)
-  * [Kafli 13: Að skrifa CSS](https://bok.vefforritun.is/13.css-best-practices.html)
-
 ## Fyrirlestrar
 
 [Fyrirlestur: Cascade](1.cascade.md), [vídeó (19:49)](https://youtu.be/47vOtXjwnI8)
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2022/namsefni/12.css-cascade)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/12.css-cascade)
 
 ### Cascade
 

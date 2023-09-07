@@ -9,9 +9,9 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 | 1    | 21. ágúst     | Kynning; inngangur; HTML; Netlify                                        | Verkefni 1                |                           |
 | 2    | 28. ágúst     | Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO             | Verkefni 2                | Verkefni 1                |
 | 3    | 4. september  | CSS; box model; specificity og cascade; visual formatting; Letur & litir | Verkefni 3                | Verkefni 2                |
-| 4    | 11. september | Flexbox; CSS virkni & stuðningur; gestafyrirlestur um hönnun             | Verkefni 4                | Verkefni 3                |
-| 5    | 18. september | Skalanlegir vefir; hönnun; grid                                          | Verkefni 5; Hópverkefni 1 | Verkefni 4                |
-| 6    | 25. september | node.js & npm; Sass & Stylelint; Kvikun                                  | Verkefni 6                | Verkefni 5                |
+| 4    | 11. september | Flexbox; CSS virkni & stuðningur                                         | Verkefni 4                | Verkefni 3                |
+| 5    | 18. september | Skalanlegir vefir; hönnun; grid; kvikun                                  | Verkefni 5; Hópverkefni 1 | Verkefni 4                |
+| 6    | 25. september | node.js & npm; Sass & Stylelint                                          | Verkefni 6                | Verkefni 5                |
 | 7    | 2. október    | Git & GitHub; CSS í stærri verkefnum                                     |                           | Verkefni 6                |
 | 8    | 9. október    | JavaScript: gildi, týpur, virkjar, stýriskipanir, föll                   | Verkefni 7                |                           |
 | 9    | 16. október   | Fylki, hlutir; Einingar; forritun á vef: DOM og atburðir                 | Verkefni 8                | Verkefni 7; Hópverkefni 1 |
@@ -60,6 +60,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
 - [Vika 3, 4.–10. september 2023](vikur/vika-03.md)
   - CSS; box model; specificity og cascade; visual formatting; Letur & litir
+- [Vika 4, 11.–17. september 2023](vikur/vika-04.md)
+  - Flexbox; CSS virkni & stuðningur
 
 ## Verkefni
 

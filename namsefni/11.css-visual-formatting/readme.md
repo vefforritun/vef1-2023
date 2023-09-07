@@ -2,14 +2,9 @@
 
 [Fyrirlestur: Visual formatting módel](1.visual-formatting.md), [vídeó (21:22)](https://youtu.be/7fIME1NFctE)
 
-## Lesefni
-
-* [Bókin um vefforritun](https://bok.vefforritun.is/)
-  * [Kafli 14: Visual Formatting módel](https://bok.vefforritun.is/14.visual-formatting.html)
-
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2022/namsefni/13.css-visual-formatting)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/13.css-visual-formatting)
 
 * [Dæmi um  margin](daemi/01.margin.html)
 * [Dæmi um collapsing margin](daemi/02.collapsing.html)

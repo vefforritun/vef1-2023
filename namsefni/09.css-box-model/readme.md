@@ -2,14 +2,9 @@
 
 [Fyrirlestur: Box model](1.box-model.md), [vídeó (21:22)](https://youtu.be/L88XCwXuu5g)
 
-## Lesefni
-
-* [Bókin um vefforritun](https://bok.vefforritun.is/)
-  * [Kafli 11: Box model](https://bok.vefforritun.is/11.css-box-model.html)
-
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2022/namsefni/11.css-box-model)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/11.css-box-model)
 
 * [Dæmi um  margin](daemi/01.margin.html)
 * [Dæmi um collapsing margin](daemi/02.collapsing.html)

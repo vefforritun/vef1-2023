@@ -2,11 +2,6 @@
 
 [Fyrirlestur: Að skrifa HTML](1.ad-skrifa-html.md), [vídeó (18:35)](https://youtu.be/PQADk732nVE)
 
-## Lesefni
-
-* [Bókin um vefforritun](https://bok.vefforritun.is/)
-  * [Kafli 6: Að skrifa HTML](https://bok.vefforritun.is/06.ad-skrifa-html.html)
-
 ## Dæmi
 
 [Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/05.ad-skrifa-html)

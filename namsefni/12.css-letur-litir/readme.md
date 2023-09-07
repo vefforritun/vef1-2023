@@ -2,14 +2,9 @@
 
 [Fyrirlestur: Letur & litir](1.letur-litir.md), [vídeó (39:14)](https://youtu.be/HaWUNNEcsAw)
 
-## Lesefni
-
-* [Bókin um vefforritun](https://bok.vefforritun.is/)
-  * [Kafli 15: Letur & litir](https://bok.vefforritun.is/15.css-letur-litir.html)
-
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2022/namsefni/14.css-letur-litir/)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/14.css-letur-litir/)
 
 * [Almennar og vef öruggar leturgerðir](daemi/01.basic-typefaces.html)
 * [Dæmi um letur og texta](daemi/02.text.html)

@@ -2,13 +2,6 @@
 
 [Fyrirlestur: Aðgengi](1.adgengi.md), [vídeó (36:50)](https://youtu.be/8v_13WgcjOw)
 
-## Lesefni
-
-* [Bókin um vefforritun](https://bok.vefforritun.is/)
-  * [Kafli 7: Aðgengi](https://bok.vefforritun.is/07.adgengi.html)
-  
-## Fyrirlestrar
-
 ## Dæmi
 
 [Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/06.adgengi)

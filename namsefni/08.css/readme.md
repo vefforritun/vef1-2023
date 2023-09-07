@@ -2,16 +2,10 @@
 
 [Fyrirlestur: CSS](1.css.md), [vídeó (46:18)](https://youtu.be/h_LwvTnc3lg)
 
-## Lesefni
-
-* [Bókin um vefforritun](https://bok.vefforritun.is/)
-  * [Kafli 9: CSS](https://bok.vefforritun.is/09.css.html)
-  * [Kafli 10: CSS málfræði](https://bok.vefforritun.is/10.css-malfraedi.html)
-* [Resilient Web Design, chapter 2: Materials](https://resilientwebdesign.com/chapter2/)
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2022/namsefni/10.css)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2023/namsefni/10.css)
 
 * [HTML & CSS](daemi/01.html-css.html)
   * Tenging HTML & CSS, ekki gott dæmi

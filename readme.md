@@ -73,6 +73,10 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 21. ágúst, skilist 31. ágúst.
 - [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2023-v2), HTML element, aðgengi og SEO.
   - Sett fyrir 28. ágúst, skilist 7. september
+- [Verkefni 3 (CSS #1)](https://github.com/vefforritun/vef1-2023-v3), CSS grunnur.
+  - Sett fyrir 4. september, skilist 14. september
+- [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2023-v4), CSS flexbox.
+  - Sett fyrir 11. september, skilist 21. september
 
 ### Hópverkefni
 

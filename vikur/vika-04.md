@@ -2,7 +2,17 @@
 
 ## Fyrirlestrar
 
-Upptökur koma inn eftir fyrirlestur mánudaginn 11. september.
+- [Fyrirlestur 4.1: Box model og layout, part 1 (47:29)](https://youtu.be/QLPA0vftC60)
+- [Fyrirlestur 4.1: Box model og layout, part 2 (48:02)](https://youtu.be/0z7TfQ8KcvE)
+
+[Dæmi úr fyrirlestri](https://github.com/vefforritun/vef1-2023-fyrirlestra-daemi/tree/main/f04)
+
+### Efni farið yfir í fyrirlestri
+
+- [Colors in CSS](https://ishadeed.com/article/css-color/)
+- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
+- [OKLCH Color Picker & Converter](https://oklch.com/)
+- [HD Gradients](https://gradient.style)
 
 ## Námsefni
 

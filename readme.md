@@ -62,6 +62,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - CSS; box model; specificity og cascade; visual formatting; Letur & litir
 - [Vika 4, 11.–17. september 2023](vikur/vika-04.md)
   - Flexbox; CSS virkni & stuðningur
+- [Vika 5, 18.–24. september 2023](vikur/vika-05.md)
+  - Skalanlegir vefir; hönnun; grid; kvikun
 
 ## Verkefni
 
@@ -77,12 +79,14 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 4. september, skilist 14. september
 - [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2023-v4), CSS flexbox.
   - Sett fyrir 11. september, skilist 21. september
+- [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2023-v5), responsive, kvikun, grid.
+  - Sett fyrir 18. september, skilist 28. september
 
 ### Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef1-2023-h1).
   - Sett fyrir í lok september, skilist í lok október.
-- [Hópverkefni 1](https://github.com/vefforritun/vef1-2023h2).
+- [Hópverkefni 2](https://github.com/vefforritun/vef1-2023-h2).
   - Sett fyrir í lok október, skilist í lok nóvember.
 
 ## Dæmatímar

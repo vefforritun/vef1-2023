@@ -2,7 +2,15 @@
 
 ## Fyrirlestrar
 
-Upptökur koma inn eftir fyrirlestur mánudaginn 18. september.
+- [Fyrirlestur 5.1: Yfirferð á sýnilausn fyrir verkefni 3 (38:46)](https://youtu.be/-bIMg1lTtlU)
+- [Fyrirlestur 5.2: Flexbox yfirferð partur 1 (44:59)](https://youtu.be/UwYehYeB-us)
+- [Fyrirlestur 5.3: Flexbox yfirferð partur 2, byrjun á v4 (23:21)](https://youtu.be/GyUgx78nvC8)
+
+### Efni farið yfir í fyrirlestri
+
+- [Sýnilausn á verkefni 3](https://github.com/vefforritun/vef1-2023-v3-synilausn)
+- [Efni úr fyrirlestri](https://github.com/vefforritun/vef1-2023-fyrirlestra-daemi/tree/main/f05)
+- [Sýnilausn á verkefni 4 frá 2022](https://github.com/vefforritun/vef1-2022-v4-synilausn)
 
 ## Námsefni
 

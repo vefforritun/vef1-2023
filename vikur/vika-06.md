@@ -1,4 +1,4 @@
-# Vika 5, 18.–24. september
+# Vika 6, 25. september–1. október 2023
 
 ## Fyrirlestrar
 
@@ -36,7 +36,8 @@ Kemur inn eftir fyrirlestur mánudaginn 25. september.
 
 ## Verkefni vikunnar
 
+- [ ] Skoða figma skjal fyrir hópverkefni 1 og undirbúa spurningar / umræðu í viku 7
 - [ ] Setja upp [node.js](http://nodejs.org/download)
 - [ ] Skoða dæmi um NPM og uppsetningu tóla; prófa sjálf
-- [ ] Vinna í og skila [verkefni 5](https://github.com/vefforritun/vef1-2023-v4).
+- [ ] Vinna í og skila [verkefni 5](https://github.com/vefforritun/vef1-2023-v5).
 - [ ] Skoða forsendur [hópverkefnis 1](https://github.com/vefforritun/vef1-2023-h1) og mynda hóp.

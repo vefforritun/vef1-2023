@@ -2,7 +2,11 @@
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur mánudaginn 25. september.
+- [Fyrirlestur 6.1: Skalanleiki og grid (36:44)](https://youtu.be/bjCUeC2CP5M)
+- [Fyrirlestur 6.2: Kvikun og CSS grid (39:29)](https://youtu.be/Vtf4FN57RNc)
+- [Fyrirlestur 6.2: Aðeins um takka (13:44)](https://youtu.be/tiwHD-Bz2nY)
+- [Verkefni 5](https://youtu.be/R6dVPYmPbnE)
+- [Hópverkefni 1](https://youtu.be/uX4COJ_WQEo)
 
 ## Námsefni
 

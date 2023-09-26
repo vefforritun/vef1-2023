@@ -66,6 +66,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Skalanlegir vefir; hönnun; grid; kvikun
 - [Vika 6, 25. september–1. október 2023](vikur/vika-06.md)
   - Skalanlegir vefir; hönnun; grid; kvikun
+- [Vika 7, 2.–8. október 2023](vikur/vika-07.md)
+  - Git & GitHub; JavaScript: gildi, týpur, virkjar
 
 ## Verkefni
 

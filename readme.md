@@ -10,7 +10,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 | 2    | 28. ágúst     | Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO             | Verkefni 2                | Verkefni 1                |
 | 3    | 4. september  | CSS; box model; specificity og cascade; visual formatting; Letur & litir | Verkefni 3                | Verkefni 2                |
 | 4    | 11. september | Flexbox; CSS virkni & stuðningur                                         | Verkefni 4                | Verkefni 3                |
-| 5    | 18. september | Skalanlegir vefir; hönnun; grid; kvikun                                  |                           | Verkefni 4                |
+| 5    | 18. september | Skalanlegir vefir; hönnun; grid; kvikun                                  | Verkefni 5                | Verkefni 4                |
 | 6    | 25. september | node.js & npm; Sass & Stylelint CSS í stærri verkefnum                   | Verkefni 5; Hópverkefni 1 |                           |
 | 7    | 2. október    | Git & GitHub; JavaScript: gildi, týpur, virkjar                          | Verkefni 6                | Verkefni 5                |
 | 8    | 9. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                           | Verkefni 7                | Verkefni 6                |
@@ -44,7 +44,7 @@ Fyrirlestrar eru haldnir 15:00-17:20 á mánudögum.
 
 Námsefni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálfir fara í nánari yfirferð á mikilvægum atriðum úr fyrirlestrum, yfirferð á dæmum og umræður.
 
-[Upptökur af öllum fyrirlestrum á YouTube](https://www.youtube.com/playlist?list=XXX).
+[Upptökur af öllum fyrirlestrum á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozzcbrQgXQpbTVA1OXjUEMO1).
 
 ### Dæmi
 
@@ -82,7 +82,9 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2023-v4), CSS flexbox.
   - Sett fyrir 11. september, skilist 21. september
 - [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2023-v5), responsive, kvikun, grid.
-  - Sett fyrir 18. september, skilist 28. september
+  - Sett fyrir 18.–25. september, skilist 2. október
+- [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2023-v6), tæki og tól, Git & GitHub.
+  - Sett fyrir 2. október, skilist 12. október
 
 ### Hópverkefni
 

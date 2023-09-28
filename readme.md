@@ -12,13 +12,13 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 | 4    | 11. september | Flexbox; CSS virkni & stuðningur                                         | Verkefni 4                | Verkefni 3                |
 | 5    | 18. september | Skalanlegir vefir; hönnun; grid; kvikun                                  | Verkefni 5                | Verkefni 4                |
 | 6    | 25. september | node.js & npm; Sass & Stylelint CSS í stærri verkefnum                   | Verkefni 5; Hópverkefni 1 |                           |
-| 7    | 2. október    | Git & GitHub; JavaScript: gildi, týpur, virkjar                          | Verkefni 6                | Verkefni 5                |
-| 8    | 9. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                           | Verkefni 7                | Verkefni 6                |
-| 9    | 16. október   | Einingar; forritun á vef: DOM og atburðir                                | Verkefni 8                | Verkefni 7; Hópverkefni 1 |
-| 10   | 23. október   | Ósamstillt forritun; HTTP & form; Ajax; eslint                           | Verkefni 9; Hópverkefni 2 | Verkefni 8                |
-| 11   | 30. október   | Tæki & tól; Villumeðhöndlun & reglulegar segðir; Fallaforritun           | Verkefni 10               | Verkefni 9                |
-| 12   | 6. nóvember   | Hlutir; HTML5 og Web APIs; Prófanir                                      |                           | Verkefni 10               |
-| 13   | 13. nóvember  | Samantekt og upprifjun; upplýsingar um lokapróf                          |                           |                           |
+| 7    | 2. október    | Git & GitHub; JavaScript: gildi, týpur, virkjar                          |                           | Verkefni 5                |
+| 8    | 9. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                           | Verkefni 6                |                           |
+| 9    | 16. október   | Einingar; forritun á vef: DOM og atburðir                                | Verkefni 7                | Verkefni 6; Hópverkefni 1 |
+| 10   | 23. október   | Ósamstillt forritun; HTTP & form; Ajax; eslint                           | Verkefni 8; Hópverkefni 2 | Verkefni 7                |
+| 11   | 30. október   | Tæki & tól; Villumeðhöndlun & reglulegar segðir; Fallaforritun           | Verkefni 9                | Verkefni 8                |
+| 12   | 6. nóvember   | Hlutir; HTML5 og Web APIs; Prófanir                                      | Verkefni 10               | Verkefni 9                |
+| 13   | 13. nóvember  | Samantekt og upprifjun; upplýsingar um lokapróf                          |                           | Verkefni 10               |
 | 14   | 20. nóvember  | Aðstoð, umræður; verkefnatími                                            |                           | Hópverkefni 2             |
 
 Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md).
@@ -87,6 +87,8 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 18.–25. september, skilist 2. október
 - [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2023-v6), tæki og tól, Git & GitHub.
   - Sett fyrir 2. október, skilist 12. október
+- [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2023-v7), JavaScript forritunarmálið.
+  - Sett fyrir 9. október, skilist 19. október
 
 ### Hópverkefni
 

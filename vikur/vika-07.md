@@ -2,7 +2,14 @@
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur mánudaginn 2. október.
+- [Fyrirlestur 7.1: Meira um grid (36:12)](https://youtu.be/8fo4wmDtxwY)
+- [Fyrirlestur 7.2: Node.js og NPM (40:38)](https://youtu.be/NIICCvyAAPs)
+- [Hópverkefni 1, um figma (12:16)](https://youtu.be/NeGCb9dnJLo)
+
+### Efni rætt í fyrirlestri
+
+- [State of CSS 2023](https://2023.stateofcss.com/)
+- [Node.js](https://nodejs.org/en)
 
 ## Námsefni
 
@@ -52,4 +59,8 @@ Kemur inn eftir fyrirlestur mánudaginn 2. október.
 - [ ] Búa til aðgang hjá [GitHub](https://github.com/).
 - [ ] Búa til repo á GitHub og á tölvu og tengja saman.
 - [ ] Vinna í [verkefni 6](https://github.com/vefforritun/vef1-2023-v6).
-- [ ] Vinna í [hópverkefni 1](https://github.com/vefforritun/vef1-2023-h1).
+- [ ] Vinna í [hópverkefni 1](https://github.com/vefforritun/vef1-2023-h1):
+  - [ ] Finna hóp
+  - [ ] Skoða Figma skjal og byrja að skipuleggja grid
+  - [ ] Skipta verkefnum á milli í hópnum
+  - [ ] Útbúa GitHub repo og byrja að vinna saman

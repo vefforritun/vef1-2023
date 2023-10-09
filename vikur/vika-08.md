@@ -2,7 +2,20 @@
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur mánudaginn 9. október.
+- [Fyrirlestur 8.1: Git (36:06)](https://youtu.be/vzADRFIwbuM)
+- [Fyrirlestur 8.2: Git, GitHub og verkefni 6 (43:25)](https://youtu.be/94TqLwIQ4hU)
+- [Fyrirlestur 8.3: GitHub og Netlify (og aðeins meira um v6) (29:20)](https://youtu.be/vq-qnRxV1SI)
+
+### Efni sem farið var yfir í fyrirlestri
+
+- [Be the browser’s mentor, not its micromanager.](https://buildexcellentwebsit.es/)
+- [The ideal viewport doesn’t exist](https://viewports.fyi/)
+- [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
+- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [The CSS Mindset](https://mxb.dev/blog/the-css-mindset/)
+- [GitHub: New personal access token (classic)](https://github.com/settings/tokens/new)
+- [GitHub repo unnið í tíma](https://github.com/osk/vef1-2023-v6)
+- [Sýnilausn á verkefni 5](https://github.com/vefforritun/vef1-2023-v5-synilausn/)
 
 ## Námsefni
 

@@ -26,6 +26,5 @@ Kemur inn eftir fyrirlestur mánudaginn 9. október.
 - [ ] Skoða dæmi og prófa að keyra
   - [ ] Í vafra með því að afrita inn í console undir devtools
   - [ ] Í nodejs túlk
-- [ ] Skila [verkefni 6](https://github.com/vefforritun/vef1-2023-v6)
-- [ ] Byrja á [verkefni 7](https://github.com/vefforritun/vef1-2023-v7)
-- [ ] Halda áfram með [hópverkefni 1](https://github.com/vefforritun/vef1-2023-h1)
+- [ ] Vinna í [verkefni 6](https://github.com/vefforritun/vef1-2023-v6)
+- [ ] Skila [hópverkefni 1](https://github.com/vefforritun/vef1-2023-h1)

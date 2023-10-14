@@ -16,9 +16,9 @@ Kemur inn eftir fyrirlestur mánudaginn 16. október.
 
 ### Uppteknir fyrirlestrar
 
-- [Forritun á vef, DOM](../namsefni/27.browser-dom/)
-- [Atburðir](../namsefni/28.events/)
-- [Einingar](../namsefni/29.modules/)
+- [Forritun á vef, DOM](../namsefni/28.browser-dom/)
+- [Atburðir](../namsefni/29.events/)
+- [Einingar](../namsefni/30.modules/)
 
 ### Lykilhugtök
 

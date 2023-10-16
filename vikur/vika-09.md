@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur mánudaginn 16. október.
+- [Fyrirlestur 9.1: Aðeins meira um git og GitHub (9:34)](https://youtu.be/qKqg-k_nVvg)
+- [Fyrirlestur 9.2: JavaScript inngangur (32:39)](https://youtu.be/lANBdDxkYXA)
+- [Fyrirlestur 9.3: JavaScript inngangur, part 2 (13:44)](https://youtu.be/xBqsTBHYafI)
+- [Verkefni 7 (31:12)](https://youtu.be/95g4uylHkyQ)
 
 ## Námsefni
 

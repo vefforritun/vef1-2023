@@ -2,7 +2,8 @@
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur mánudaginn 23. október.
+- [Fyrirlestur 10.1: Meira um verkefni 7 og JavaScript (1:00:10)](https://youtu.be/iztVLVaXybM)
+- [Fyrirlestur 10.2: DOM og atburðir; verkefni 8 (52:42)](https://youtu.be/DiQtXfq2lYI)
 
 ## Námsefni
 

@@ -23,6 +23,6 @@ Koma inn eftir fyrirlestur 30. október.
 
 ## Verkefni vikunnar
 
-- [ ] Skila [verkefni 8](https://github.com/vefforritun/vef1-2023-v7)
-- [ ] Byrja á [verkefni 9](https://github.com/vefforritun/vef1-2023-v8)
+- [ ] Skila [verkefni 8](https://github.com/vefforritun/vef1-2023-v8)
+- [ ] Byrja á [verkefni 9](https://github.com/vefforritun/vef1-2023-v9)
 - [ ] Byrja á [hópverkefni 2](https://github.com/vefforritun/vef1-2023-h2)

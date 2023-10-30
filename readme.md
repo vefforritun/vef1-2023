@@ -70,6 +70,12 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Git & GitHub; JavaScript: gildi, týpur, virkjar
 - [Vika 8, 9.–15. október 2023](vikur/vika-08.md)
   - JavaScript: stýriskipanir, föll, fylki, hlutir
+- [Vika 9, 16.–22. október 2023](vikur/vika-09.md)
+  - Einingar; forritun á vef: DOM og atburðir
+- [Vika 10, 23.–29. október 2023](vikur/vika-10.md)
+  - Ósamstillt forritun; HTTP & form; ajax; eslint
+- [Vika 11, 30. október–5. nóvember 2023](vikur/vika-11.md)
+  - Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun
 
 ## Verkefni
 
@@ -91,6 +97,10 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 2. október, skilist 12. október
 - [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2023-v7), JavaScript forritunarmálið.
   - Sett fyrir 16. október, skilist 25. október
+- [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2023-v8), forritun á vef, DOM og atburðir.
+  - Sett fyrir 23. október, skilist 2. nóvember
+- [Verkefni 8 (JS #3)](https://github.com/vefforritun/vef1-2023-v8), forritun á móti vefþjónustu, JSON, eslint.
+  - Sett fyrir 30. október, skilist 9. nóvember
 
 ### Hópverkefni
 

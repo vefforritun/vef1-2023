@@ -99,7 +99,7 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
   - Sett fyrir 16. október, skilist 25. október
 - [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2023-v8), forritun á vef, DOM og atburðir.
   - Sett fyrir 23. október, skilist 2. nóvember
-- [Verkefni 8 (JS #3)](https://github.com/vefforritun/vef1-2023-v8), forritun á móti vefþjónustu, JSON, eslint.
+- [Verkefni 8 (JS #3)](https://github.com/vefforritun/vef1-2023-v9), forritun á móti vefþjónustu, JSON, eslint.
   - Sett fyrir 30. október, skilist 9. nóvember
 
 ### Hópverkefni

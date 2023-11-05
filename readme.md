@@ -76,6 +76,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Ósamstillt forritun; HTTP & form; ajax; eslint
 - [Vika 11, 30. október–5. nóvember 2023](vikur/vika-11.md)
   - Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun
+- [Vika 12, 6.–12. nóvember 2023](vikur/vika-12.md)
+  - Hlutir; HTML5 og Web APIs; prófanir
 
 ## Verkefni
 
@@ -85,22 +87,34 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 
 - [Verkefni 1 (HTML #1)](https://github.com/vefforritun/vef1-2023-v1), setja upp ritil, gera síðu aðgengilega á vefnum gegnum Netlify.
   - Sett fyrir 21. ágúst, skilist 31. ágúst.
+  - Engin sýnilausn.
 - [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2023-v2), HTML element, aðgengi og SEO.
   - Sett fyrir 28. ágúst, skilist 7. september
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2023-v2-synilausn).
 - [Verkefni 3 (CSS #1)](https://github.com/vefforritun/vef1-2023-v3), CSS grunnur.
   - Sett fyrir 4. september, skilist 14. september
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2023-v3-synilausn).
 - [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2023-v4), CSS flexbox.
   - Sett fyrir 11. september, skilist 21. september
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2023-v4-synilausn).
 - [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2023-v5), responsive, kvikun, grid.
   - Sett fyrir 18.–25. september, skilist 2. október
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2023-v5-synilausn).
 - [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2023-v6), tæki og tól, Git & GitHub.
   - Sett fyrir 2. október, skilist 12. október
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2023-v6-synilausn).
 - [Verkefni 7 (JS #1)](https://github.com/vefforritun/vef1-2023-v7), JavaScript forritunarmálið.
   - Sett fyrir 16. október, skilist 25. október
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2023-v7-synilausn).
 - [Verkefni 8 (JS #2)](https://github.com/vefforritun/vef1-2023-v8), forritun á vef, DOM og atburðir.
   - Sett fyrir 23. október, skilist 2. nóvember
-- [Verkefni 8 (JS #3)](https://github.com/vefforritun/vef1-2023-v9), forritun á móti vefþjónustu, JSON, eslint.
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2023-v8-synilausn).
+- [Verkefni 9 (JS #3)](https://github.com/vefforritun/vef1-2023-v9), forritun á móti vefþjónustu, JSON, eslint.
   - Sett fyrir 30. október, skilist 9. nóvember
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2023-v9-synilausn).
+- [Verkefni 10 (JS #4)](https://github.com/vefforritun/vef1-2023-v10), forritun með JavaScript tólum og Web APIs.
+  - Sett fyrir 6. nóvember, skilist 16. nóvember
+  - Engin sýnilausn.
 
 ### Hópverkefni
 

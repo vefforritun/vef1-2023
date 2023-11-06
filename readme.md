@@ -18,8 +18,8 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 | 10   | 23. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                           | Verkefni 8; Hópverkefni 2 | Verkefni 7; Hópverkefni 1 |
 | 11   | 30. október   | Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun            | Verkefni 9                | Verkefni 8                |
 | 12   | 6. nóvember   | Hlutir; HTML5 og Web APIs; prófanir                                      | Verkefni 10               | Verkefni 9                |
-| 13   | 13. nóvember  | Samantekt og upprifjun; upplýsingar um lokapróf                          |                           | Verkefni 10               |
-| 14   | 20. nóvember  | Aðstoð, umræður; verkefnatími                                            |                           | Hópverkefni 2             |
+| 13   | 13. nóvember  | Aðstoð, umræður; verkefnatími; upplýsingar um lokapróf                   |                           | Verkefni 10               |
+| 14   | 20. nóvember  | Samantekt og upprifjun; aðstoð; umræður                                  |                           | Hópverkefni 2             |
 
 Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md).
 

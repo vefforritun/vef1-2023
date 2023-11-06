@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 6. nóvember.
+- [Fyrirlestur 12.1: Meira um verkefni 9, (41:13)](https://youtu.be/9tjtQszi-jA)
+- [Fyrirlestur 12.2: fetch og verkefni 9, partur 1 (40:23)](https://youtu.be/r-UtKZL9W4U)
+- [Fyrirlestur 12.3: fetch og verkefni 9, partur 2 (24:09)](https://youtu.be/PWBQsa1_NUc)
+- [Verkefni 10](https://youtu.be/fkHRygbU-fM)
 
 ## Námsefni
 

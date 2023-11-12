@@ -131,6 +131,8 @@ Sjá á Uglu og Canvas síðu námskeiðs.
 
 ## Lokapróf
 
-Nánar um lokapróf þegar nær dregur.
+Lokapróf haldið þriðjudaginn 28. nóvember frá kl. 13:30–16:30, Inspera heimapróf.
+
+[Efni til prófs](./namsefni/41.lokaprof/).
 
 Hægt er að nálgast eldri lokapróf á Uglu.

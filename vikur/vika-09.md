@@ -25,6 +25,20 @@
 
 ### Lykilhugtök
 
+- DOM (Document Object Model)
+- DOM tré og nóður, vísanir þeirra á milli
+- `querySelector` og `querySelectorAll`
+- Breytingar á DOM tré
+- Búa til element og nóður í DOM tré
+- Attributes og DOM
+- `dataset`
+- `classList`
+- Atburðir (events)
+- Upplýsingar um atburð (event)
+- Sjálfgefin hegðun og `preventDefault()`
+- Einingar og API
+- JavaScript/ECMAScript modules
+
 ## Verkefni vikunnar
 
 - [ ] Skoða DOM dæmi vel

@@ -34,6 +34,16 @@
 
 ### Lykilhugtök
 
+- Segðir (expressions)
+- Skipanir (statement)
+- Semíkomman í JavaScript
+- Breytur (variables)
+- Flæðistýringar
+- Lykkjur (loops)
+- Föll (functions)
+- Fylki (arrays)
+- Hlutir (objects)
+
 ## Verkefni vikunnar
 
 - [ ] Skoða dæmi og prófa að keyra

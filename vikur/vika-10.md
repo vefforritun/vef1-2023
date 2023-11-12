@@ -22,6 +22,23 @@
 
 ### Lykilhugtök
 
+- Ósamstillt forritun (async)
+- Promises og stöður þeirra
+- `then` og `catch`
+- `async` og `await`
+- HTTP
+- `GET` og `POST`
+- HTTP stöðukóðar
+- `URL` og `URLSearchParams`
+- JSON
+- `fetch`
+- Stöður á ósamstilltum köllum / vefþjónustuköllum:
+  - `loading`
+  - `error`
+  - `empty`
+  - `data`
+- eslint
+
 ## Verkefni vikunnar
 
 - [ ] Skila [verkefni 7](https://github.com/vefforritun/vef1-2023-v7)

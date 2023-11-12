@@ -25,6 +25,13 @@
 
 ### Lykilhugtök
 
+- Villumeðhöndlun
+- `try` og `catch`
+- Reglulegar segðir (regular expressions)
+- Fallaforritun (functional programming)
+- Transpiling
+- Pökkun á kóða
+
 ## Verkefni vikunnar
 
 - [ ] Skila [verkefni 8](https://github.com/vefforritun/vef1-2023-v8)

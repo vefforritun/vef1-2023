@@ -23,6 +23,15 @@
 
 ### Lykilhugtök
 
+- Hlutir (objects)
+- `this`
+- Prótótýpur
+- Prótótýpukeðjan
+- Klasar (`class`) í JavaScript
+- Prófanir
+- Jest
+- Web APIs
+
 ## Verkefni vikunnar
 
 - [ ] Skila [verkefni 9](https://github.com/vefforritun/vef1-2023-v9)

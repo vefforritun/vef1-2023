@@ -1,4 +1,4 @@
-# Vika 13, 13.–20. nóvember 2023
+# Vika 13, 13.–19. nóvember 2023
 
 ## Fyrirlestrar
 

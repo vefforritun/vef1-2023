@@ -2,7 +2,7 @@
 
 ## Námsefni
 
-- [Upprifjun og samantekt á námsefni](../namsefni/42.upprifjun-samantekt/)
+- [Upprifjun og samantekt á námsefni](../namsefni/41.upprifjun-samantekt/)
 
 ## Verkefni vikunnar
 
